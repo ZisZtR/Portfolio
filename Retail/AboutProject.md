@@ -1,9 +1,9 @@
 # Table of Contents
-[Background](#Background)<br>
-[Dataset overview](#Dataset-overview)<br>
+[Background](#background-)<br>
+[Dataset overview](#dataset-overview-)<br>
 [Summary](#Summary)<br>
-[Insights Deep Dive](#Insights-Deep-Dive)<br>
-[Recommendations](#Recommendations)
+[Insights Deep Dive](#insights-deep-dive-)<br>
+[Recommendations](#recommendations-)
 
 ## Background <a name="Background"></a>
 &emsp;ชุดข้อมูลเป็นของธุรกิจค้าปลีกแบบออนไลน์แห่งหนึ่ง (ไม่ได้มีการระบุชื่อในแหล่งตั้งต้น แต่จากชุดข้อมูลคาดว่าต้นทางมาจาก UK) โดยได้มีการค้าขายส่งออกทั่วโลกถึง 37 ประเทศ! ข้อมูลที่มีนั้นเป็นรายการ Invoices คลอบคลุมทั้งปี 2011 กว่า 20,000 รายการ
