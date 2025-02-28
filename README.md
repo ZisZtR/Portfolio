@@ -6,7 +6,9 @@
 - 📫 How to reach me **zisztr@gmail.com**
 
 <h3>Link to Portfolio Projects</h3>
-- <a href="https://github.com/ZisZtR/Portfolio/tree/main/Retail" target="blank">OnlineRetail Dataset</a>
+- <a href="https://github.com/ZisZtR/Portfolio/tree/main/Retail" target="blank">Retail Dataset</a>
+- <a href="https://github.com/ZisZtR/Portfolio/tree/main/OnlinePlatform" target="blank">Online E-commerce Dataset</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
